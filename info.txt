@@ -1,0 +1,4 @@
+token=NjQ4OTUzODMwMjU1MzYyMDc4.XtDUww.GpBcvntpBtV0DynaOEPAm6iig_s
+adm_permission = 8
+id сервера = 616926704492871690
+json api = https://discordapp.com/api/guilds/616926704492871690/widget.json
